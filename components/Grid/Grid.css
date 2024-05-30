@@ -1,8 +1,23 @@
 .grid{
-  height: 370px;
-  width: 370px;
+  height: 350px;
+  width: 350px;
   display:flex;
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
+}
+.reset{
+  padding: 10px;
+  margin-top: 12px;
+  font:900;
+  font-size: large;
+  background-color:darkgray;
+  color:black;
+}
+
+.fwinner{
+  background-color: aliceblue;
+  padding: 7px;
+  color:black;
+  border-radius: 7px;
 }
